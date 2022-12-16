@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-livesay.json",
-            "label": {
-              "none": ["Livesay"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-marriott.json",
             "label": {
               "none": ["Marriott"]
