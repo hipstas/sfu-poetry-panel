@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/side-a-canvas-1-layton.json",
-            "label": {
-              "none": ["Layton"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/side-a-canvas-1-audience.json",
             "label": {
               "none": ["audience"]
