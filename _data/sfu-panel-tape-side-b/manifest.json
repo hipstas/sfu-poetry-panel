@@ -28,6 +28,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-b-canvas-1-audience.json",
+            "label": {
+              "none": ["audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-b-canvas-1-layton.json",
             "label": {
               "none": ["Layton"]
