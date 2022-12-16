@@ -12,6 +12,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-dialogue.json",
+            "label": {
+              "none": ["dialogue"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-livesay.json",
             "label": {
               "none": ["Livesay"]
