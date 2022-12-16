@@ -25,6 +25,14 @@
               "none": ["Djwa"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-b-canvas-1-layton.json",
+            "label": {
+              "none": ["Layton"]
+            }
+          }
         ],
         "items": [
           {
