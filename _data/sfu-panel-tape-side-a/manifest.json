@@ -8,6 +8,16 @@
         "id": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3818.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-djwa.json",
+            "label": {
+              "none": ["Djwa"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/paintings",
