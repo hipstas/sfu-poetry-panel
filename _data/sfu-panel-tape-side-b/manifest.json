@@ -33,6 +33,14 @@
               "none": ["Layton"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-b-canvas-1-dialogue.json",
+            "label": {
+              "none": ["dialogue"]
+            }
+          }
         ],
         "items": [
           {
