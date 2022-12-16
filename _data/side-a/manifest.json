@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/side-a-canvas-1-audience.json",
-            "label": {
-              "none": ["audience"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/side-a-canvas-1-dialogue.json",
             "label": {
               "none": ["dialogue"]
