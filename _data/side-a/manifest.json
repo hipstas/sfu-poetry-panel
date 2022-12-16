@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://teddiebrock.github.io/sfu-poetry-panel/side-a/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Side A" ] },
+    "label": { "en": [ "SFU Panel: Tape Side A" ] },
     "items": [
       {
         "id": "https://teddiebrock.github.io/sfu-poetry-panel/side-a/canvas-1/canvas",

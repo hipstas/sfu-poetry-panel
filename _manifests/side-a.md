@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Side A
+title: 'SFU Panel: Tape Side A'
 manifest_name: side-a
 
 ---
