@@ -21,8 +21,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "45.521787,65.885158"
+          "type": "PointSelector",
+          "t": "45.521787"
         }
       }
     },
@@ -37,19 +37,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "SD: We’re fortunate tonight in having here with us some of the major poets from this period. Dorothy Livesay, who began writing in Ontario in the late 20s, Anne Marriott, whose major poem was written in B.C. In 1939, “The Wind Our Enemy,” and Irving Layton who began writing in Montreal in the early 40s. We’re happy to have Anne here substituting for P. K. Page, who wasn’t able to come. And we very much regret that F. R. Scott has been ill, and is not able to be with us.",
+          "value": "SD: We’re fortunate tonight in having here with us some of the major poets from this period. Dorothy Livesay, who began writing in Ontario in the late 20s, Anne Marriott, whose major poem was written in B.C. In 1939, “The Wind Our Enemy,” and Irving Layton who began to write in Montreal in the early 40s. We’re happy to have Anne here substituting for P. K. Page, who wasn’t able to come. And we very much regret that F. R. Scott has been ill, and is not able to be with us.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Page",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Scott",
+          "value": "Page.Scott",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -57,8 +51,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "66.009705,101.567763"
+          "type": "PointSelector",
+          "t": "61.2"
         }
       }
     },
@@ -79,8 +73,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "103.249142,124.359793"
+          "type": "PointSelector",
+          "t": "82.8"
         }
       }
     },
@@ -101,13 +95,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Scott",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Smith",
+          "value": "Scott.Smith",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -115,8 +103,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "125.667533,173.182066"
+          "type": "PointSelector",
+          "t": "125.667533"
         }
       }
     },
@@ -137,8 +125,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "173.867072,233.400353"
+          "type": "PointSelector",
+          "t": "173.867072"
         }
       }
     },
@@ -159,19 +147,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Knister",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Ross",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Bowman",
+          "value": "Knister.Ross.Bowman",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -179,8 +155,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "233.89854,269.394325"
+          "type": "PointSelector",
+          "t": "233.89854"
         }
       }
     },
@@ -231,13 +207,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Masses",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "New Frontier",
+          "value": "Masses.New Frontier",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -503,37 +473,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Preview",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Scott",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Anderson",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Shaw",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Page",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Klein",
+          "value": "Preview.Scott.Anderson.Shaw.Page.Klein",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -629,13 +569,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Sutherland",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "First Statement",
+          "value": "Sutherland.First Statement",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -665,37 +599,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "First Statement",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Preview",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Sutherland",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Dudek",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Auden",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Tennyson",
+          "value": "First Statement.Preview.Sutherland.Dudek.Auden.Tennyson",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -895,13 +799,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Anderson",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Preview",
+          "value": "Anderson.Preview",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -931,13 +829,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Carman",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Roberts",
+          "value": "Carman.Roberts",
           "format": "text/plain",
           "purpose": "tagging"
         }
