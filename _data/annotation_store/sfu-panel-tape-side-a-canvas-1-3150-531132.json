@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-3150-531132.json",
+  "type": "AnnotationPage",
+  "label": "3150.531132",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-3150-531132-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SD: You had a great lot of poetry tours between about 1887 and about 19—well maybe about 1928, 29. But after the death of Carman and as Roberts sort of went downhill… very little, practical nothing until the late ‘50s and early ’60s.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "3150.531132",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3150.531132,3171.797466"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1127-862994.json",
+  "type": "AnnotationPage",
+  "label": "1127.862994",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-1127-862994-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "She will be describing her approach to her art and her part with Dorothy Livesay in the setting-up of Contemporary Verse. I should mention, as a matter of interest, that all three of our panelists were together, in the pages of Contemporary Verse in 1941. Anne Marriott ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "1127.862994",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1127.862994,1148.880235"
+        }
+      }
+    }
+  ]
+}

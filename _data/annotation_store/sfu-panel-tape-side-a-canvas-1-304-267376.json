@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-304-267376.json",
+  "type": "AnnotationPage",
+  "label": "304.267376",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-304-267376-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Early in the 30s she became committed to the left. Her poetry, which had earlier concentrated on nature, now turned to human nature. And particularly the social struggle and its place in a reconstructed society. She was associated with the short-lived little magazine Masses, which ran from 1932 to ’34, and with the left-wing New Frontier of 1937. It was her poem, “Day and Night,” a description of the toiling factory worker, which for many Canadians epitomized what was wrong with the industrial system.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "304.267376",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "304.267376,343.748653"
+        }
+      }
+    }
+  ]
+}

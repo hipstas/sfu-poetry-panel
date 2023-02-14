@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1901-110643.json",
+  "type": "AnnotationPage",
+  "label": "1901.110643",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-1901-110643-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SD recites excerpt from \"Look, The Lambs Are All About Us\" by Irving Layton",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "1901.110643",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1901.110643,1916.21192"
+        }
+      }
+    }
+  ]
+}

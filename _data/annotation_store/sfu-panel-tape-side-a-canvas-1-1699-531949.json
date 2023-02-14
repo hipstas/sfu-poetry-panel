@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1699-531949.json",
+  "type": "AnnotationPage",
+  "label": "1699.531949",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-1699-531949-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The first editorial of this little magazine stated that the poets involved were all anti-fascist, and this is what they said: “We feel that the existence of a war between democratic culture and the paralyzing forces of dictatorship only intensifies the writer’s obligation to work. Now more than ever, creative and experimental writing must be kept alive and there must be no retreat.”",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "1699.531949",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1699.531949,1725.406508"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-270-203878.json",
+  "type": "AnnotationPage",
+  "label": "270.203878",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-270-203878-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SD: Dorothy knows the world of the woman artist firsthand, because her mother, Florence Randal Livesay was a well-known poet of the 20s. Her father, J. F. B. Livesay was for some time a head of Canadian Press. Dorothy’s first book of poetry, Green Pitcher was published in 1928. It differs from the earlier verse—much of the earlier verse of the 20s—in that you will find here an original voice which draws on the new imagist movement for its form.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "270.203878",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.203878,303.76919"
+        }
+      }
+    }
+  ]
+}

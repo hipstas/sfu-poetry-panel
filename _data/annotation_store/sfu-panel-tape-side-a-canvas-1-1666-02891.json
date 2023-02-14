@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1666-02891.json",
+  "type": "AnnotationPage",
+  "label": "1666.02891",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-1666-02891-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SD: Well, shortly after Contemporary Verse got going and Irving Layton and Dorothy Livesay and Anne Marriott appeared in its pages, Preview, a new little magazine was founded in Montreal. As P. K. Page is not here to tell the Preview story, perhaps we should have a few sentences on it. Preview began in March 1942 as a mimeograph bulletin. F. R. Scott, Patrick Anderson, and Neville Shaw were among the original founders, and P. K. Page and A. M. Klein soon joined the group.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "1666.02891",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1666.02891,1699.531949"
+        }
+      }
+    }
+  ]
+}

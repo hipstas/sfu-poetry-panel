@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1807-327043.json",
+  "type": "AnnotationPage",
+  "label": "1807.327043",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-1807-327043-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Irving Layton, who began to write in the pages of First Statement, and in fact in the early years of the war as Lieutenant Layton can best speak of this period. He hardly needs an introduction to this audience as many of you will have heard his excellent reading last night. In the early ‘40s, Irving was writing particularly of the social injustices, which he perceived in Montreal and in the larger world around him. In the April 1943 issue of First Statement, we find a verse from Irving called “The Modern Poet” and here are the first four lines:",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "1807.327043",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1807.327043,1848.022649"
+        }
+      }
+    }
+  ]
+}

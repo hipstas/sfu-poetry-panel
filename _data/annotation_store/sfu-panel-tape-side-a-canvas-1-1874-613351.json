@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1874-613351.json",
+  "type": "AnnotationPage",
+  "label": "1874.613351",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-1874-613351-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SD: His great contribution is that he brought eros to Canadian poetry, where she properly belonged. In the early ‘40s and late ‘50s he complained that Canadians were “too dull, too conservative, and much too neglectful of the joys of the flesh.” In pastorals such as “Look, The Lambs Are All About Us,” he set out to educate Canadians: “Hell, my back sunburnt from so much lovemaking in the open air. What luck, what luck to be loved by the one girl in this Presbyterian country who knows how to give a man pleasure”",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "1874.613351",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1874.613351,1901.110643"
+        }
+      }
+    }
+  ]
+}

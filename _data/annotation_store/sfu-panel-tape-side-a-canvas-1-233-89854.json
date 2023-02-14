@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-233-89854.json",
+  "type": "AnnotationPage",
+  "label": "233.89854",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sfu-panel-tape-side-a-canvas-1-233-89854-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SD: Well, Scott was parodying the kind of poetry that he didn’t care for. Dorothy Livesay who is going to begin tonight’s symposium will be telling us something about the Miss Crotchets, the lady poets of the 20s, who preceded her. More importantly, she will be telling us about another strain of poetry - an important imagist line that began with Raymond Knister that carried on through W. W. E Ross, and also she will be talking about, briefly, the poetry of Louise Morey Bowman.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "233.89854",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "233.89854,269.394325"
+        }
+      }
+    }
+  ]
+}
