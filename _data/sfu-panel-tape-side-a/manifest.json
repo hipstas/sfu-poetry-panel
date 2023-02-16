@@ -1,0 +1,347 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "SFU Panel: Tape Side A" ] },
+    "items": [
+      {
+        "id": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3818.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1761-12025.json",
+            "label": {
+              "none": ["1761.12025"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1099-964553.json",
+            "label": {
+              "none": ["1099.964553"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-397-615063.json",
+            "label": {
+              "none": ["397.615063"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-125-667533.json",
+            "label": {
+              "none": ["125.667533"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-304-267376.json",
+            "label": {
+              "none": ["304.267376"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1901-110643.json",
+            "label": {
+              "none": ["1901.110643"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-3150-531132.json",
+            "label": {
+              "none": ["3150.531132"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-2709-72953.json",
+            "label": {
+              "none": ["2709.72953"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-233-89854.json",
+            "label": {
+              "none": ["233.89854"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1055-345728.json",
+            "label": {
+              "none": ["1055.345728"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1666-02891.json",
+            "label": {
+              "none": ["1666.02891"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1735-370237.json",
+            "label": {
+              "none": ["1735.370237"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-344-371386.json",
+            "label": {
+              "none": ["344.371386"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1807-327043.json",
+            "label": {
+              "none": ["1807.327043"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1127-862994.json",
+            "label": {
+              "none": ["1127.862994"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-45-521787.json",
+            "label": {
+              "none": ["45.521787"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-dialogue.json",
+            "label": {
+              "none": ["dialogue"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-livesay.json",
+            "label": {
+              "none": ["Livesay"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-173-867072.json",
+            "label": {
+              "none": ["173.867072"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1857-861831.json",
+            "label": {
+              "none": ["1857.861831"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1017-701514.json",
+            "label": {
+              "none": ["1017.701514"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1848-022649.json",
+            "label": {
+              "none": ["1848.022649"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1653-667659.json",
+            "label": {
+              "none": ["1653.667659"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1707-720889.json",
+            "label": {
+              "none": ["1707.720889"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1699-531949.json",
+            "label": {
+              "none": ["1699.531949"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-marriott.json",
+            "label": {
+              "none": ["Marriott"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1725-842421.json",
+            "label": {
+              "none": ["1725.842421"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-270-203878.json",
+            "label": {
+              "none": ["270.203878"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-61-2.json",
+            "label": {
+              "none": ["61.2"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1034-608717.json",
+            "label": {
+              "none": ["1034.608717"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1874-613351.json",
+            "label": {
+              "none": ["1874.613351"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-djwa.json",
+            "label": {
+              "none": ["Djwa"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-351-096903.json",
+            "label": {
+              "none": ["351.096903"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1086-451245.json",
+            "label": {
+              "none": ["1086.451245"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-audience.json",
+            "label": {
+              "none": ["audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-layton.json",
+            "label": {
+              "none": ["Layton"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1937-478254.json",
+            "label": {
+              "none": ["1937.478254"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-82-8.json",
+            "label": {
+              "none": ["82.8"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/sfu-panel-tape-side-a-canvas-1-1784-161373.json",
+            "label": {
+              "none": ["1784.161373"]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/download/obj-287-side-a_202302/OBJ-287_SideA.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3818.0
+                },
+                "target": "https://teddiebrock.github.io/sfu-poetry-panel/sfu-panel-tape-side-a/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
