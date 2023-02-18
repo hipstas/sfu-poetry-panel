@@ -1,8 +1,8 @@
 ---
 layout: item
-title: Tape Side A - Test
-manifest_name: tape-side-a-test
-permalink: tape-side-a-test
+title: Tape Side A
+manifest_name: tape-side-a
+permalink: tape-side-a
 external_manifest_url: 
 
 ---
