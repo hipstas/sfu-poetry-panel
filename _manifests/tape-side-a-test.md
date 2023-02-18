@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Tape Side A - Test
+title: Part 1
 manifest_name: tape-side-a-test
 
 ---
