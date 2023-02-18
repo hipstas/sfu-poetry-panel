@@ -36,15 +36,15 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "SD: We’re fortunate tonight in having here with us some of the major poets from this period. Dorothy Livesay, who began writing in Ontario in the late 20s, Anne Marriott, whose major poem was written in B.C. In 1939, “The Wind Our Enemy,” and Irving Layton who began to write in Montreal in the early 40s. We’re happy to have Anne here substituting for P. K. Page, who wasn’t able to come. And we very much regret that F. R. Scott has been ill, and is not able to be with us.",
+        "value": "We’re happy to have Anne here substituting for P. K. Page, who wasn’t able to come. And we very much regret that F. R. Scott has been ill, and is not able to be with us.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "59.0"
+          "type": "RangeSelector",
+          "t": "84.0,97.0"
         }
       }
     },
@@ -65,8 +65,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "98.0"
+          "type": "RangeSelector",
+          "t": "97.0,118.0"
         }
       }
     },
@@ -80,21 +80,43 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "SD: Now, I’d like to begin, perhaps, by invoking F. R. Scott in spirit, since he can’t be here in person. Because it was Scott’s satirical verse, “The Canadian Authors Meet,” written in 1927, which really sketches out the kind of poetry that most of our three panelists were reacting against. This was the poem entitled “The Canadian Authors Meet” and it was written at the Ritz Carleton Hotel one night in 1927 while Scott, sitting at the back of the room, watched A. J. M. Smith go up to the front of the room to get two prizes for two sonnets, which he had submitted pseudonymously. The poem that Scott wrote is this:",
+        "value": "SD: Now, I’d like to begin, perhaps, by invoking F. R. Scott in spirit, since he can’t be here in person. Because it was Scott’s satirical verse, “The Canadian Authors Meet,” written in 1927, which really sketches out the kind of poetry that most of our three panelists were reacting against.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "121.0"
+          "type": "RangeSelector",
+          "t": "118.0,140.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "panel-side-a-canvas-1-djwa-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This was the poem entitled “The Canadian Authors Meet” and it was written at the Ritz Carleton Hotel one night in 1927 while Scott, sitting at the back of the room, watched A. J. M. Smith go up to the front of the room to get two prizes for two sonnets, which he had submitted pseudonymously. The poem that Scott wrote is this:",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "140.0,165.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-djwa-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -109,14 +131,14 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "165.0"
+          "type": "RangeSelector",
+          "t": "165.0,226.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-5.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -131,14 +153,14 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "224.0"
+          "type": "RangeSelector",
+          "t": "225.0,260.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-6.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -153,14 +175,14 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "270.203878"
+          "type": "RangeSelector",
+          "t": "260.0,293.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-7.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -176,13 +198,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "304.267376"
+          "t": "293.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-8.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -198,13 +220,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "344.371386"
+          "t": "331.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-9.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -226,7 +248,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-10.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -248,7 +270,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-11.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -270,7 +292,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-12.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -292,7 +314,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-13.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -314,7 +336,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-14.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-15.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -336,7 +358,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-15.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-16.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -358,7 +380,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-16.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-17.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -380,7 +402,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-17.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-18.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -402,7 +424,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-18.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-19.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -424,7 +446,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-19.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-20.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -446,7 +468,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-20.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-21.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -468,7 +490,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-21.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-22.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -490,7 +512,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-22.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-23.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -512,7 +534,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-23.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-24.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -534,7 +556,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-24.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-25.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -556,7 +578,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-25.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-26.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -578,7 +600,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-26.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-27.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -600,7 +622,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-27.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-28.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -622,7 +644,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-28.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-29.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -644,7 +666,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-djwa-annotation-29.json",
+      "id": "panel-side-a-canvas-1-djwa-annotation-30.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",

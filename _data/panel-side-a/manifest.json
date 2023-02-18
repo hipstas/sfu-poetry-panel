@@ -32,6 +32,14 @@
               "none": ["Djwa"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-djwa-.json",
+            "label": {
+              "none": ["Djwa "]
+            }
+          }
         ],
         "items": [
           {
