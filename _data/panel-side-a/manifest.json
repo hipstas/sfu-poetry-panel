@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Panel: Side A" ] },
+    "homepage": [
+      {
+        "id": "https://atom.archives.sfu.ca/f-231-1-2-0-0-26",
+        "type": "Text",
+        "label": { "en": [ "Panel: Side A" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3818.0,
+        "items": [
+          {
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/download/obj-287-side-a_202302/OBJ-287_SideA.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3818.0
+                },
+                "target": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
