@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: 'Panel: Side A'
+title: 'Panel Audio: Part 1'
 manifest_name: panel-side-a
 
 ---
