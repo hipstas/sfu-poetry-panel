@@ -2,7 +2,8 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://example.com/collection.json",
     "type": "Collection",
-    "label": { "en": [ " SFU Panel on Canadian Modernist Poetry of the 1930s and 1940s" ] },
+    "label": { "en": [ " Annotating Literary History: Canadian Modernism of the 1930s and 1940s
+" ] },
     "summary": { "en": [ "This project annotates a literary panel event that took place at Simon Fraser University, Burnaby, British Columbia on June 27, 1978. The recording features poets Dorothy Livesay, Anne Marriott, and Irving Layton, who discuss the development of literary modernism in Canada throughout the 1930s and 1940s." ] },
     "items": [
     ]
