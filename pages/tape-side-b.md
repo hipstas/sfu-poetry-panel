@@ -1,8 +1,8 @@
 ---
 layout: item
-title: 'SFU Panel: Tape Side B'
-manifest_name: sfu-panel-tape-side-b
-permalink: sfu-panel-tape-side-b
+title: 'Tape Side B'
+manifest_name: tape-side-b
+permalink: tape-side-b
 external_manifest_url: 
 
 ---
