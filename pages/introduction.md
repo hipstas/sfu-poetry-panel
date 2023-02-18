@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Annotating Literary History
+title: Introduction
 permalink: introduction
 ---
 <!-- Add an essay or interpretive material below this line,
