@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Part 1
-manifest_name: tape-side-a-test
+title: Tape Side A
+manifest_name: tape-side-a
 
 ---
