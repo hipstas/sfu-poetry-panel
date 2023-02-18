@@ -21,8 +21,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "45.521787"
+          "type": "RangeSelector",
+          "t": "2700.0,61.0"
         }
       }
     },
@@ -44,7 +44,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "59.0"
+          "t": "3540.0"
         }
       }
     },
