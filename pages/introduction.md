@@ -39,6 +39,8 @@ While the perceived divisions between the Montreal and West Coast little magazin
 
 **Works Cited**
 
+Kelly, Peggy. "Politics, Gender, and New Provinces: Dorothy Livesay and FR Scott." 	Canadian Poetry, vol. 53, 2003, pp. 54–65.   
+
 Rifkind, Candida. Comrades and Critics : Women, Literature and the Left in 1930s Canada. University of Toronto Press, 2009.
 
 Simon Fraser University Archives. Simon Fraser University Sound Recordings Collection. F231-1-2-0-0-26. "Dorothy Livesay, P.K. Page and Ann Marriott: Poetry of the 30s and 40s," (sound recording). 27 June 1978.
