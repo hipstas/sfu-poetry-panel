@@ -3,7 +3,7 @@
     "id": "https://example.com/collection.json",
     "type": "Collection",
     "label": { "en": [ "Annotating Literary History: Canadian Modernism of the 1930s and 1940s" ] },
-    "summary": { "en": [ "This project annotates a 1978 literary panel discussion on the history of Canadian modernist poetry at Simon Fraser University. The event featured Irving Layton, Dorothy Livesay, and Anne Marriott." ] },
+    "summary": { "en": [ "This project annotates a 1978 literary panel discussion on the history of Canadian modernist poetry. The event featured Irving Layton, Dorothy Livesay, and Anne Marriott, and took place at Simon Fraser University." ] },
     "items": [
     ]
 }
