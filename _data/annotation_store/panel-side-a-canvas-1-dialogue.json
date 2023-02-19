@@ -88,7 +88,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1865.0"
+          "t": "1864.0"
         }
       }
     },
@@ -110,7 +110,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2764.0"
+          "t": "2763.0"
         }
       }
     },
@@ -132,7 +132,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2796.0"
+          "t": "2795.0"
         }
       }
     },
@@ -154,7 +154,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2825.0"
+          "t": "2823.0"
         }
       }
     },
@@ -176,7 +176,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2993.0"
+          "t": "2992.0"
         }
       }
     },
