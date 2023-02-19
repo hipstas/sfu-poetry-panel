@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Panel: Side B" ] },
+    "homepage": [
+      {
+        "id": "https://atom.archives.sfu.ca/f-231-1-2-0-0-26",
+        "type": "Text",
+        "label": { "en": [ "Panel: Side B" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://atom.archives.sfu.ca/archives-and-records-management-department",
+        "type": "Agent",
+        "label": { "en": [ "SFU Archives and Records Management" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2403.0,
+        "items": [
+          {
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801507.us.archive.org/26/items/obj-287-side-b/OBJ-287_SideB.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2403.0
+                },
+                "target": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
