@@ -21,8 +21,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1157.754181,1169.399289"
+          "type": "PointSelector",
+          "t": "1108.0"
         }
       }
     },
@@ -43,8 +43,8 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1169.648383,1183.597603"
+          "type": "PointSelector",
+          "t": "1118.0"
         }
       }
     },
@@ -58,15 +58,15 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "As Sandra has said, I grew up in Victoria. I went to a girl’s private school where the main purpose of our education seemed to be to turn us into nice polite English ladies and maybe to play grass hockey well, which was something I never succeeded in doing. And I can’t remember the Depression, for instance, ever being mentioned at that school and we certainly never heard anything about Canadian literature. We studied Keats and Shelley and we did get up to something as modernist John Masefield but that was where it stopped.",
+        "value": "As Sandra has said, I grew up in Victoria. I went to a girl’s private school where the main purpose of our education seemed to be to turn us into nice polite English ladies and maybe to play grass hockey well, which was something I never succeeded in doing.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1183.659877,1225.818905"
+          "type": "PointSelector",
+          "t": "1132.0"
         }
       }
     },
@@ -80,15 +80,15 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "AM: I didn’t feel anything of the Depression myself. My father was a civil engineer who worked with the provincial government and although we never seemed to have enough money, at least not in comparison to my schoolmates, we were actually very comfortable. I was sick a great deal and very protected and I think I lived in a sort of nice, comfortable green cocoon in Victoria with no idea what was going on anywhere else. But I did write poetry—well, as early as I can remember it was just a sort of natural part of living was to write poetry and stories. But this poetry of course was all very much influenced by the Keats, Shelley, and possibly Masefield tradition.",
+        "value": "And I can’t remember the Depression, for instance, ever being mentioned at that school and we certainly never heard anything about Canadian literature. We studied Keats and Shelley and we did get up to something as modernist John Masefield but that was where it stopped.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1226.970962,1272.461612"
+          "type": "PointSelector",
+          "t": "1151.0"
         }
       }
     },
@@ -102,15 +102,15 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And I guess about 1936 I got into the Victoria Poetry Group, which was run by Doris Ferne. It was part of the Canadian Authors Association. And in that group I got my first glimmering that there was something else, some other kind of poetry. And the first really big experience was when Ira Dilworth who was then, I think, at Victoria High School and then later on became associated with the CBC in Vancouver read Eliot’s “The Waste Land” at a meeting with the poetry group. And this, to me, was just one of the most wonderful experiences of my life until then. I had never heard anything remotely like that, and the language, and the metaphors. I couldn’t under understand more than half of it of course, if that, but it was just the most marvellous, emotional experience. And I suddenly realized there was a whole new way of writing that I knew nothing about.",
+        "value": "AM: I didn’t feel anything of the Depression myself. My father was a civil engineer who worked with the provincial government and although we never seemed to have enough money, at least not in comparison to my schoolmates, we were actually very comfortable. I was sick a great deal and very protected and I think I lived in a sort of nice, comfortable green cocoon in Victoria with no idea what was going on anywhere else.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1272.586159,1335.731292"
+          "type": "PointSelector",
+          "t": "1175.0"
         }
       }
     },
@@ -124,21 +124,153 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And around the same time, Alan Crawley—whom I will speak more about in a minute—came to Victoria and he was another person who read modern poetry, and who really showed me more of what was going on. As I’ve said, the poetry that I wrote was all very much the nice little lyrics about laurel hedges and waves on the beach, and this kind of thing. Until 1937 when I had been ill for quite a long time and our English family doctor suggested I should go to a high dry climate to recuperate, and my parents sent me off to Saskatchewan to my aunt’s. So instead of the moist greenness of Victoria, here was this enormous prairie, absolutely baked brown, full of wind, and dust blowing, and poverty.",
+        "value": "But I did write poetry—well, as early as I can remember it was just a sort of natural part of living was to write poetry and stories. But this poetry of course was all very much influenced by the Keats, Shelley, and possibly Masefield tradition.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1336.011522,1397.226182"
+          "type": "PointSelector",
+          "t": "1201.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "panel-side-a-canvas-1-marriott-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I guess about 1936 I got into the Victoria Poetry Group, which was run by Doris Ferne. It was part of the Canadian Authors Association. And in that group I got my first glimmering that there was something else, some other kind of poetry.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1220.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And the first really big experience was when Ira Dilworth who was then, I think, at Victoria High School and then later on became associated with the CBC in Vancouver read Eliot’s “The Waste Land” at a meeting with the poetry group.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1240.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And this, to me, was just one of the most wonderful experiences of my life until then. I had never heard anything remotely like that, and the language, and the metaphors. I couldn’t under understand more than half of it of course, if that, but it was just the most marvellous, emotional experience. And I suddenly realized there was a whole new way of writing that I knew nothing about.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1258.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And around the same time, Alan Crawley—whom I will speak more about in a minute—came to Victoria and he was another person who read modern poetry, and who really showed me more of what was going on.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1283.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As I’ve said, the poetry that I wrote was all very much the nice little lyrics about laurel hedges and waves on the beach, and this kind of thing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1299.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Until 1937 when I had been ill for quite a long time and our English family doctor suggested I should go to a high dry climate to recuperate, and my parents sent me off to Saskatchewan to my aunt’s. So instead of the moist greenness of Victoria, here was this enormous prairie, absolutely baked brown, full of wind, and dust blowing, and poverty.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1312.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -153,14 +285,14 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1397.350729,1419.582299"
+          "type": "PointSelector",
+          "t": "1348.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-marriott-annotation-7.json",
+      "id": "panel-side-a-canvas-1-marriott-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -175,14 +307,14 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1419.582299,1448.010064"
+          "type": "PointSelector",
+          "t": "1370.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-marriott-annotation-8.json",
+      "id": "panel-side-a-canvas-1-marriott-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -190,21 +322,43 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "But although I was enjoying myself so much I was very much aware for the first time in my life of pain and despair in the people around me. And I was also extremely aware of the difference in the landscape. And so when I got back to Victoria, I had been home about three days and I was sitting at lunch in our dining room and suddenly a line of poetry began to form in my mind: “Wind flattening its gaunt furious self against the naked siding” and just like that I began to write “The Wind, Our Enemy” on the back of an envelope and I remember very clearly my mother cautioning me not to ink on the tablecloth and I remember also noticing the difference—being really aware of the difference—of this nice white damask Victoria tablecloth compared to the cracked oil cloth that I had been having meals off of all summer on the prairie farm.",
+        "value": "But although I was enjoying myself so much I was very much aware for the first time in my life of pain and despair in the people around me. And I was also extremely aware of the difference in the landscape.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1448.010064,1512.089296"
+          "type": "PointSelector",
+          "t": "1398.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-marriott-annotation-9.json",
+      "id": "panel-side-a-canvas-1-marriott-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And so when I got back to Victoria, I had been home about three days and I was sitting at lunch in our dining room and suddenly a line of poetry began to form in my mind: “Wind flattening its gaunt furious self against the naked siding” and just like that I began to write “The Wind, Our Enemy” on the back of an envelope and I remember very clearly my mother cautioning me not to get ink on the tablecloth and I remember also noticing the difference—being really aware of the difference—of this nice white damask Victoria tablecloth compared to the cracked oil cloth that I had been having meals off of all summer on the prairie farm.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1416.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-16.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -219,14 +373,14 @@
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1479.738313,1484.626768"
+          "type": "PointSelector",
+          "t": "1430.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-marriott-annotation-10.json",
+      "id": "panel-side-a-canvas-1-marriott-annotation-17.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -234,21 +388,21 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well, Doris Ferne showed the manuscript for “The Wind, Our Enemy” to Dorothy’s father, J. F. B. Livesay and he took it down to Toronto and it was published by the Ryerson Press and still crops up in anthologies because I guess it was one of the few poems that was written about that era. And so after “The Wind, Our Enemy” came out, then I met Dorothy and other writers who were writing in a modern style and who were writing about the sort of things I was now becoming interested in.",
+        "value": "Well, Doris Ferne showed the manuscript for “The Wind, Our Enemy” to Dorothy’s father, J. F. B. Livesay and he took it down to Toronto and it was published by the Ryerson Press and still crops up in anthologies because I guess it was one of the few poems that was written about that era.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1512.089296,1548.020994"
+          "type": "PointSelector",
+          "t": "1465.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-marriott-annotation-11.json",
+      "id": "panel-side-a-canvas-1-marriott-annotation-18.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -256,21 +410,21 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "But I wanted to mention Contemporary Verse because that was a very important thing, not just to me but to Canadian poets. It was the Easter weekend of 1941 and Dorothy was staying with Floris McLaren, a Victoria writer, and Doris Ferne and I went there for the afternoon. And we were saying how nice it would be if only there were some magazine that would use our poetry. The Canadian Poetry Magazine had been in existence for a while but it was very traditional. It started out well with E. J. Pratt but it became very, sort of, hide-bound. And Dorothy, I think, being the most adventurous one of us said “Why don’t we start a magazine?” And Floris who was very practical said “Oh well, you know that’s just a pipe dream.” But at the end of the afternoon we decided “Well, why not?” We would start a magazine. And somebody said “Well, who would edit it?” and everyone just said at once, “well, Alan Crawley.”",
+        "value": "And so after “The Wind, Our Enemy” came out, then I met Dorothy and other writers who were writing in a modern style and who were writing about the sort of things I was now becoming interested in.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1548.519181,1611.103854"
+          "type": "PointSelector",
+          "t": "1484.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-a-canvas-1-marriott-annotation-12.json",
+      "id": "panel-side-a-canvas-1-marriott-annotation-19.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -278,15 +432,59 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "AM: Okay, well Alan Crawley was from Winnipeg. He was a lawyer who was very interested in poetry and had become blind. And he came to Victoria and he had this wonderful store of modern poetry, and he read to people, and he–really, we all caught his enthusiasm for modern poetry, and Contemporary Verse started with—the first issue cost sixteen dollars to bring out, and we had twenty-five subscribers at a dollar each and that launched the magazine, which ran for ten years, and well… published all of us.",
+        "value": "The Canadian Poetry Magazine had been in existence for a while but it was very traditional. It started out well with E. J. Pratt but it became very, sort of, hide-bound.",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "1616.521631,1653.667659"
+          "type": "PointSelector",
+          "t": "1526.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And Dorothy, I think, being the most adventurous one of us said “Why don’t we start a magazine?” And Floris who was very practical said “Oh well, you know that’s just a pipe dream.” But at the end of the afternoon we decided “Well, why not?” We would start a magazine. And somebody said “Well, who would edit it?” and everyone just said at once, “well, Alan Crawley.”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1539.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-marriott-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AM: Well, Alan Crawley was from Winnipeg. He was a lawyer who was very interested in poetry and had become blind. And he came to Victoria and he had this wonderful store of modern poetry, and he read to people, and he–really, we all caught his enthusiasm for modern poetry, and Contemporary Verse started with—the first issue cost sixteen dollars to bring out, and we had twenty-five subscribers at a dollar each and that launched the magazine, which ran for ten years, and well… published all of us.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1569.0"
         }
       }
     }

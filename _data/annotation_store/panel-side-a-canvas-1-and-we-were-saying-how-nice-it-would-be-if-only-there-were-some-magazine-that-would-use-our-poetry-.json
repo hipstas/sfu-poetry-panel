@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-and-we-were-saying-how-nice-it-would-be-if-only-there-were-some-magazine-that-would-use-our-poetry-.json",
+  "type": "AnnotationPage",
+  "label": "And we were saying how nice it would be if only there were some magazine that would use our poetry.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-a-canvas-1-and-we-were-saying-how-nice-it-would-be-if-only-there-were-some-magazine-that-would-use-our-poetry--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But I wanted to mention Contemporary Verse because that was a very important thing, not just to me but to Canadian poets. It was the Easter weekend of 1941 and Dorothy was staying with Floris McLaren, a Victoria writer, and Doris Ferne and I went there for the afternoon.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1501.0"
+        }
+      }
+    }
+  ]
+}
