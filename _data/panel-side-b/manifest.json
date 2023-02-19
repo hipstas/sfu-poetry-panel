@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Panel: Side B" ] },
+    "label": { "en": [ "SFU Panel Recording: Part 2" ] },
     "homepage": [
       {
         "id": "https://atom.archives.sfu.ca/f-231-1-2-0-0-26",
         "type": "Text",
-        "label": { "en": [ "Panel: Side B" ] },
+        "label": { "en": [ "SFU Panel Recording: Part 2" ] },
         "format": "text/html"
       }
     ],
