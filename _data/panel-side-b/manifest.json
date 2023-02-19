@@ -23,6 +23,16 @@
         "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2403.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-b-canvas-1-livesay.json",
+            "label": {
+              "none": ["Livesay"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/paintings",
