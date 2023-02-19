@@ -22,7 +22,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "418.570031"
+          "t": "400.0"
         }
       }
     },
@@ -44,7 +44,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1009.481438"
+          "t": "961.0"
         }
       }
     },
@@ -66,7 +66,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1149.098192"
+          "t": "1099.0"
         }
       }
     },
@@ -88,7 +88,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1210.343989"
+          "t": "1158.0"
         }
       }
     },
@@ -110,7 +110,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1377.921457"
+          "t": "1328.0"
         }
       }
     },
@@ -132,7 +132,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1653.979025"
+          "t": "1605.0"
         }
       }
     },
@@ -154,7 +154,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1916.21192"
+          "t": "1862.0"
         }
       }
     },
@@ -176,7 +176,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1927.639072"
+          "t": "1875.0"
         }
       }
     },
@@ -198,7 +198,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1967.369441"
+          "t": "1915.0"
         }
       }
     },
@@ -220,7 +220,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2562.889073"
+          "t": "2568.0"
         }
       }
     },
@@ -242,7 +242,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2619.651192"
+          "t": "2630.0"
         }
       }
     },
@@ -264,7 +264,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2700.077168"
+          "t": "2713.0"
         }
       }
     },
@@ -286,7 +286,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2820.856246"
+          "t": "2836.0"
         }
       }
     },
@@ -308,7 +308,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "3105.227301"
+          "t": "3086.0"
         }
       }
     },
@@ -330,7 +330,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "3240.920836"
+          "t": "3250.0"
         }
       }
     },
@@ -352,7 +352,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "3485.374702"
+          "t": "3477.0"
         }
       }
     }
