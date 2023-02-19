@@ -1,6 +1,6 @@
 ---
 layout: item
-title: 'Panel: Side A'
+title: 'SFU Panel Recording: Side A'
 manifest_name: panel-side-a
 permalink: panel-side-a
 external_manifest_url: 
