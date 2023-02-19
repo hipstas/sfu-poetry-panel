@@ -48,14 +48,6 @@
               "none": ["Djwa"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-and-we-were-saying-how-nice-it-would-be-if-only-there-were-some-magazine-that-would-use-our-poetry-.json",
-            "label": {
-              "none": ["And we were saying how nice it would be if only there were some magazine that would use our poetry."]
-            }
-          }
         ],
         "items": [
           {
