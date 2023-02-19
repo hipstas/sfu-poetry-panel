@@ -27,6 +27,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-b-canvas-1-layton.json",
+            "label": {
+              "none": ["Layton"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-b-canvas-1-livesay.json",
             "label": {
               "none": ["Livesay"]
