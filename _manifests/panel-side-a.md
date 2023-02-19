@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: 'Panel Audio: Part 1'
+title: 'SFU Panel Recording: Part 1'
 manifest_name: panel-side-a
 
 ---
