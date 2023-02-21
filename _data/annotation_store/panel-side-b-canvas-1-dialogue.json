@@ -110,7 +110,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "300.0"
+          "t": "298.0"
         }
       }
     },
