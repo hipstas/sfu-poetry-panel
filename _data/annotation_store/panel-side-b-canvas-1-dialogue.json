@@ -36,7 +36,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "AM: And Sandra, what about the farmers? I mean, after all Saskatchewan was the first CCF government and I mean my relatives there who were struggling not to go on relief when I stayed with them and I finally had to break down and go on it. You know, they were—my young cousins—I mean, they were the sort of people that got into the CCF and—SD: I think—I think that the rank-and-file…. AM: And they certainly never went to university. If they got through grade ten they were lucky… SD: The rank-and-file were certainly not university-trained, but the people who wrote the Regina Manifesto—the Underhills, the Cassidys, the Frank Scotts—they all had been to Oxford and they all got their Fabian Socialism there and Woodsworth, too, was a product of the British university system. He was a minister, but he got his Fabian socialism in England.",
+        "value": "AM: And Sandra, what about the farmers? I mean, after all Saskatchewan was the first CCF government and I mean my relatives there who were struggling not to go on relief when I stayed with them and I finally had to break down and go on it. You know, they were—my young cousins—I mean, they were the sort of people that got into the CCF and—SD: I think—I think that the rank-and-file…. AM: And they certainly never went to university. If they got through grade ten they were lucky…",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -58,6 +58,28 @@
       ],
       "body": {
         "type": "TextualBody",
+        "value": "SD: The rank-and-file were certainly not university-trained, but the people who wrote the Regina Manifesto—the Underhills, the Cassidys, the Frank Scotts—they all had been to Oxford and they all got their Fabian Socialism there and Woodsworth, too, was a product of the British university system. He was a minister, but he got his Fabian socialism in England.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "186.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
         "value": "SD: But anyway, what the purpose of the evening is, is to give the audience a chance to ask more questions of three people, really, who have more information on these three decades than almost anybody else in the country. Are there other questions that you would like to have answered? Yes?",
         "format": "text/plain",
         "purpose": "commenting"
@@ -72,7 +94,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-3.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-4.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -88,13 +110,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "292.877853"
+          "t": "300.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-4.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -110,13 +132,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "341.168206"
+          "t": "345.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-5.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -132,13 +154,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "464.520267"
+          "t": "473.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-6.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -154,13 +176,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "513.124194"
+          "t": "531.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-7.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -176,13 +198,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "915.047308"
+          "t": "925.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-8.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -190,7 +212,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "AM: Well, I think poets now are really very lucky. I mean, as Dorothy and Irving have said, it was really hard to get published. I often wonder if “The Wind, Our Enemy” would even had got published if Dorothy’s father hadn’t taken it and been a good friend of Lorne Pierce. And I know I got a lot of publicity. It was reviewed all across the country because Dorothy’s father was the head of Canadian press. Now, I think with these grants and all the little mags—I mean, now there are just so many magazines. It’s just absolutely marvellous. There’s so many places to get published. There’s no sort of— DL: Well, is that a good thing in your opinion? AM: Oh, I think it is a most excellent thing. I mean, why not?",
+        "value": "AM: Well, I think poets now are really very lucky. I mean, as Dorothy and Irving have said, it was really hard to get published. I often wonder if “The Wind, Our Enemy” would even had got published if Dorothy’s father hadn’t taken it and been a good friend of Lorne Pierce. And I know I got a lot of publicity. It was reviewed all across the country because Dorothy’s father was the head of Canadian press.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -198,13 +220,35 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "926.022388"
+          "t": "936.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-9.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now, I think with these grants and all the little mags—I mean, now there are just so many magazines. It’s just absolutely marvellous. There’s so many places to get published. There’s no sort of— DL: Well, is that a good thing in your opinion? AM: Oh, I think it is a most excellent thing. I mean, why not?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "963.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -220,13 +264,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "991.088934"
+          "t": "1000.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-10.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -242,13 +286,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1097.155245"
+          "t": "1103.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-11.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -264,13 +308,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1139.409303"
+          "t": "1148.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-dialogue-annotation-12.json",
+      "id": "panel-side-b-canvas-1-dialogue-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -286,7 +330,7 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1469.288855"
+          "t": "1504.0"
         }
       }
     }
