@@ -36,7 +36,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "IL: I didn’t relate at all. I wasn’t published until 1959. I couldn’t find a publisher for about fourteen years and I had to publish my own books one year after another. But there was Ryerson. And Ryerson published Louis Dudek, and Pat Page—I believe—Raymond Souster brought out Unit of Five. They were going to distribute my book later on, Red Carpet for the Sun until somebody found a couple of dirty words. And they said, “nothing doing, we won’t distribute the book.” Then, of course, there was McClelland and Stewart that came on the scene a bit later. But at that time the only publisher, really, was Ryerson Press and that was because they had Lorne Pierce as the editor who was very sympathetic to what was happening. I can’t think of any other publisher—",
+        "value": "IL: I didn’t relate at all. I wasn’t published until 1959. I couldn’t find a publisher for about fourteen years and I had to publish my own books one year after another. But there was Ryerson. And Ryerson published Louis Dudek, and Pat Page—I believe—Raymond Souster brought out Unit of Five.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -44,13 +44,35 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "236.904944"
+          "t": "235.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "panel-side-b-canvas-1-layton-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They were going to distribute my book later on, Red Carpet for the Sun until somebody found a couple of dirty words. And they said, “nothing doing, we won’t distribute the book.” Then, of course, there was McClelland and Stewart that came on the scene a bit later. But at that time the only publisher, really, was Ryerson Press and that was because they had Lorne Pierce as the editor who was very sympathetic to what was happening. I can’t think of any other publisher—",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "260.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-b-canvas-1-layton-annotation-3.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -66,13 +88,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "355.945367"
+          "t": "363.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-3.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-4.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -88,13 +110,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "0.0"
+          "t": "410.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-4.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -110,13 +132,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1150.933137"
+          "t": "1159.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-5.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -132,13 +154,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1191.266557"
+          "t": "1201.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-6.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -146,7 +168,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "There isn’t a single poem that has been written by a Canadian poet—correct me, please, if I’m wrong—about the Holocaust. And the great events of our time, surely, have been the Holocaust and Gulag. And you know why? Because they indicate that the problem is not political, not sociological, but deeply psychological. Existentialist, if you wish. That the problem arises in the heart and soul of man. That it is ridden and divided because man is someone who has a soul that is tethered to an asshole. That he shits, that he decomposes, that it’s a soul in an erotic body, that he desires power, that he exercises cruelty to give him that sense of power. And that ideologies and ideologues so often mask our aggressiveness, that ruthless desire for power, the cruelty, the dominion and domination over other people.",
+        "value": "There isn’t a single poem that has been written by a Canadian poet—correct me, please, if I’m wrong—about the Holocaust. And the great events of our time, surely, have been the Holocaust and Gulag.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -154,13 +176,35 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1224.858141"
+          "t": "1233.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-7.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And you know why? Because they indicate that the problem is not political, not sociological, but deeply psychological. Existentialist, if you wish. That the problem arises in the heart and soul of man. That it is ridden and divided because man is someone who has a soul that is tethered to an asshole. That he shits, that he decomposes, that it’s a soul in an erotic body, that he desires power, that he exercises cruelty to give him that sense of power. And that ideologies and ideologues so often mask our aggressiveness, that ruthless desire for power, the cruelty, the dominion and domination over other people.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1247.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-b-canvas-1-layton-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -176,13 +220,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1296.509736"
+          "t": "1305.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-8.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -190,7 +234,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "I find Canadian poetry as gutless, as bloodless, as I found it in 1942. So now they’re taking about ecology and pollution and what’s happened to the Indian and so forth. But where are the great psychological and moral issues of our time in the Canadian poetry? I don’t see it reflected at all! I pick up a Canadian anthology of this new West Coast and there wasn’t a damn poem that really merits any attention. And good stuff? Technically and there was a concern with technique, etcetera, etcetera. But where are the poets that are really talking about these moral, political, and psychological dilemmas of our time. I do not find it.",
+        "value": "I find Canadian poetry as gutless, as bloodless, as I found it in 1942. So now they’re taking about ecology and pollution and what’s happened to the Indian and so forth. But where are the great psychological and moral issues of our time in the Canadian poetry? I don’t see it reflected at all!",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -198,13 +242,35 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1328.964616"
+          "t": "1338.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-9.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I pick up a Canadian anthology of this new West Coast and there wasn’t a damn poem that really merits any attention. And good stuff? Technically and there was a concern with technique, etcetera, etcetera. But where are the poets that are really talking about these moral, political, and psychological dilemmas of our time. I do not find it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1359.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-b-canvas-1-layton-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -220,13 +286,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1372.002609"
+          "t": "1381.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-10.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -242,13 +308,13 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1382.507328"
+          "t": "1392.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "panel-side-b-canvas-1-layton-annotation-11.json",
+      "id": "panel-side-b-canvas-1-layton-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -256,7 +322,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "I recall saying to a friend: When my head is soaked by time I hope I shall have enough craft and wisdom to compose a handful of lyrics that say with precision and intensity what living on this beautiful and dangerous planet has meant. I am modest enough to believe that such lyrics will be found in the present volume by the alert and sensitive reader. And I am sanguine enough to think that such a reader still exists. When women, homosexuals, proles, and Blacks are at last free and equal, people will still continue to experience grief and rapture, want sex, grow old, and die. Enduring poets keeps these constants in mind whatever the earth-shaking changes in foreign policy and government. Yours truly.",
+        "value": "I recall saying to a friend: When my head is soaked by time I hope I shall have enough craft and wisdom to compose a handful of lyrics that say with precision and intensity what living on this beautiful and dangerous planet has meant.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -264,7 +330,51 @@
         "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "0.0"
+          "t": "1412.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-b-canvas-1-layton-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I am modest enough to believe that such lyrics will be found in the present volume by the alert and sensitive reader. And I am sanguine enough to think that such a reader still exists. When women, homosexuals, proles, and Blacks are at last free and equal, people will still continue to experience grief and rapture, want sex, grow old, and die.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1429.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-side-b-canvas-1-layton-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Enduring poets keeps these constants in mind whatever the earth-shaking changes in foreign policy and government. Yours truly.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1458.0"
         }
       }
     }
