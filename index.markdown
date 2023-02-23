@@ -9,4 +9,4 @@ layout: home
 ### Canadian Modernism of the 1930s and 1940s
 In 1978, the poets Dorothy Livesay, Anne Marriott, and Irving Layton were invited to Simon Fraser University to take part in a panel discussion on the history of Canadian modernism in the 1930s and 1940s. (in progress)
 
-<img src="https://github.com/teddiebrock/sfu-poetry-panel/blob/gh-pages/sfu-panel-collage-1978.png?raw=true"/>
+<img src="https://github.com/teddiebrock/sfu-poetry-panel/blob/gh-pages/sfu-panel-taped.png?raw=true"/>
