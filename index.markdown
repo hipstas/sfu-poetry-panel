@@ -10,3 +10,4 @@ layout: home
 In 1978, the poets Dorothy Livesay, Anne Marriott, and Irving Layton were invited to Simon Fraser University to take part in a panel discussion on the history of Canadian modernism in the 1930s and 1940s. (in progress)
 
 <img src="https://github.com/teddiebrock/sfu-poetry-panel/blob/gh-pages/sfu-panel-taped.png?raw=true"/>
+<img src="https://github.com/teddiebrock/sfu-poetry-panel/blob/gh-pages/livesay_marriott.png?raw=true"/>
