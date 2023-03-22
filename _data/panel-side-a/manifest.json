@@ -22,7 +22,7 @@
       {
         "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 3818,
+        "duration": 3836,
         "annotations": [
           
           {
@@ -86,7 +86,7 @@
                   "id": "https://archive.org/download/obj-287-side-a_202302/OBJ-287_SideA.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 3818
+                    "duration": 3836
                 },
                 "target": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas"
               }
