@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: 'SFU Panel Recording: Side B'
 manifest_name: panel-side-b
 permalink: panel-side-b
