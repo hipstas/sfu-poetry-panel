@@ -5,7 +5,7 @@ permalink: introduction
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<img src="https://github.com/teddiebrock/sfu-poetry-panel/blob/gh-pages/sfu-panel-taped.png?raw=true" width="500" height="450"/>
+<img src="https://github.com/teddiebrock/sfu-poetry-panel/blob/gh-pages/sfu-panel-taped.png?raw=true" width="550" height="450"/>
 
 **Annotating the Literary Panel: Simon Fraser University, 1978**
 
