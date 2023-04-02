@@ -8,7 +8,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
   **Annotating the Literary Panel: Simon Fraser University, 1978**
   
-  <img src="https://github.com/teddiebrock/sfu-poetry-panel/blob/gh-pages/livesay_marriott.png?raw=true" width="550" height="400"/>
+<img src="https://github.com/teddiebrock/sfu-poetry-panel/blob/gh-pages/livesay_marriott.png?raw=true" width="550" height="400"/>
 
 On June 27, 1978, poets Dorothy Livesay, Anne Marriott, and Irving Layton were invited to speak at a panel discussion facilitated by Dr. Sandra Djwa and sponsored by the English department and Continuing Studies at Simon Fraser University in Burnaby, British Columbia. As part of the Vancouver Heritage Writers’ Festival, a public literary series at the time, their conversation centered on Canadian literary culture and modernist poetry during the 1930s and 1940s. In Livesay’s introductory comments, she addresses what she claims to be the unique conditions of “our time”—specifically, the late 1970s when the event was recorded. As she insists, it is “only” in the time of recording, in 1978, that the defining social struggles of the 20s and 30s were being given appropriate historical attention. The retrospective nature of this historical recording thus reveals the ways in which Livesay, Marriott, and Layton are positioned within the discussion in the late 1970s; they document their participation in the earlier literary culture of the 1930s and 1940s, but also work to re-situate themselves within literary-historical definitions of Canadian modernism and traditionalism. Further, the recording illuminates the materiality of Marriott, Livesay, and Layton’s distinct voices as sources of inter-personal meaning beyond the content of their discussion. 
 
