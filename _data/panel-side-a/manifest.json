@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/manifest.json",
+    "id": "https://hipstas.github.io/sfu-poetry-panel/panel-side-a/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "SFU Panel Recording: Part 1" ] },
     "homepage": [
@@ -20,14 +20,14 @@
     ],
     "items": [
       {
-        "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
+        "id": "https://hipstas.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3836,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-audience.json",
+            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-audience.json",
             "label": {
               "none": ["audience"]
             }
@@ -35,7 +35,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-livesay.json",
+            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-livesay.json",
             "label": {
               "none": ["Livesay"]
             }
@@ -43,7 +43,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-marriott.json",
+            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-marriott.json",
             "label": {
               "none": ["Marriott"]
             }
@@ -51,7 +51,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-layton.json",
+            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-layton.json",
             "label": {
               "none": ["Layton"]
             }
@@ -59,7 +59,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-djwa.json",
+            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-djwa.json",
             "label": {
               "none": ["Djwa"]
             }
@@ -67,7 +67,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-dialogue.json",
+            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-dialogue.json",
             "label": {
               "none": ["dialogue"]
             }
@@ -75,11 +75,11 @@
         ],
         "items": [
           {
-            "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/paintings",
+            "id": "https://hipstas.github.io/sfu-poetry-panel/panel-side-a/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/painting",
+                "id": "https://hipstas.github.io/sfu-poetry-panel/panel-side-a/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -88,7 +88,7 @@
                   "format": "audio/mp3",
                     "duration": 3836
                 },
-                "target": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas"
+                "target": "https://hipstas.github.io/sfu-poetry-panel/panel-side-a/canvas-1/canvas"
               }
             ]
           }

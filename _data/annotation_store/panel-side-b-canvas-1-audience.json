@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://teddiebrock.github.io/sfu-poetry-panel/annotations/panel-side-b-canvas-1-audience.json",
+  "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-b-canvas-1-audience.json",
   "type": "AnnotationPage",
   "label": "audience",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "105.47836"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "227.0"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "454.0"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "475.0"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "500.0"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "888.0"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "986.0"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1033.0"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1155.0"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1400.0"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1485.0"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1521.0"
@@ -283,7 +283,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://teddiebrock.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
+        "source": "https://hipstas.github.io/sfu-poetry-panel/panel-side-b/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1537.0"
