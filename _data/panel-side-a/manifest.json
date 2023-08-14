@@ -40,14 +40,6 @@
               "none": ["Livesay"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-marriott.json",
-            "label": {
-              "none": ["Marriott"]
-            }
-          }
         ],
         "items": [
           {
