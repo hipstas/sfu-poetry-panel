@@ -40,14 +40,6 @@
               "none": ["Marriott"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-b-canvas-1-layton.json",
-            "label": {
-              "none": ["Layton"]
-            }
-          }
         ],
         "items": [
           {
