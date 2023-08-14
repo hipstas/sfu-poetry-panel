@@ -32,14 +32,6 @@
               "none": ["Djwa"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-b-canvas-1-marriott.json",
-            "label": {
-              "none": ["Marriott"]
-            }
-          }
         ],
         "items": [
           {
