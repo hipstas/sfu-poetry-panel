@@ -56,14 +56,6 @@
               "none": ["audience"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-b-canvas-1-livesay.json",
-            "label": {
-              "none": ["Livesay"]
-            }
-          }
         ],
         "items": [
           {
