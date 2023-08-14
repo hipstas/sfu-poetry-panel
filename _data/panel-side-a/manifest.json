@@ -64,14 +64,6 @@
               "none": ["Djwa"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://hipstas.github.io/sfu-poetry-panel/annotations/panel-side-a-canvas-1-dialogue.json",
-            "label": {
-              "none": ["dialogue"]
-            }
-          }
         ],
         "items": [
           {
